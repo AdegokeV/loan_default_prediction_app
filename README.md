@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Loan Default Prediction App
 
 ## Technical and Analytical Expertise
@@ -51,3 +52,7 @@ The app will display the predicted probability of loan default and classify the 
 
 This application is for demonstration purposes only and should not be used for making real-world financial decisions. 
 The model's accuracy may vary depending on the data used for training.
+=======
+# loan_default_prediction_app
+About Loan Default Prediction App A Streamlit app using a TensorFlow model to predict loan default risk based on user inputs like age, income, and credit score. Deployed at Streamlit, it offers real-time predictions with a "High" or "Low" risk classification.
+>>>>>>> f367a162a0cc984d1e149d374f9a16d6fb8aa0d6
