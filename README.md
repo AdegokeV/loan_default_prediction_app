@@ -16,8 +16,7 @@ It leverages a pre-trained TensorFlow model for efficient predictions.
 ## Deployment
 
 A live version of the app is currently deployed at:
-https://appappgit-6l5oehywuneuczbnhh5ejv.streamlit.app/
-
+https://adegokev-loan-default-prediction-app-app-gg1ovz.streamlit.app/
 ## Local Development
 
 ### Prerequisites
